@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TreeMarketProject" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colour_brown1</item>
+        <item name="colorPrimaryDark">@color/colour_brown3</item>
+        <item name="colorAccent">@color/colour_green1</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

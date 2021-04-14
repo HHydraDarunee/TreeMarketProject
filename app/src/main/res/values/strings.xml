@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TreeMarketProject</string>
+    <string name="logo">LOGO</string>
+    <string name="tree_market">Tree Market</string>
+    <string name="tree_market_th">ตลาดต้นไม้</string>
+    <string name="buyer">ผู้ซื้อ</string>
+    <string name="seller">ผู้ขาย</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="check">ตรวจสอบ</string>
+    <string name="add_product">เพิ่ม</string>
+    <string name="edit_product">แก้ไข</string>
+    <string name="shop_data">ข้อมูลร้านค้า</string>
+    <string name="search">ค้นหา</string>
+    <string name="todo">TODO</string>
+    <string name="number">คงเหลือ</string>
+    <string name="test_shop">ศรีประเสริฐ</string>
+    <string name="test_num">20</string>
+    <string name="test_product">ต้นน่ารัก</string>
+    <string name="shop">ร้าน</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="username">ชื่อผู้ใช้</string>
+    <string name="login">ล็อกอิน</string>
+    <string name="space" />
+    <string name="address_shop">ที่อยู่</string>
+    <string name="shop_description">คำอธิบายร้านค้า</string>
+    <string name="test_address">มหาวิทยาลัยศรีนครินทรวิโรฒ องครักษ์ อำเภอองครักษ์ ตำบลองครักษ์ จังหวัดนครนายก</string>
+    <string name="test_describtion">เน้นขายต้นไม้ตกแต่ง ต้นเเร้กๆ ตะเร้กตะน้อย มุจุ๊มุงิ เป็นน้อน และขายแคคตัสเ มีหินตกแต่งพร้อม</string>
+    <string name="edit">แก้ไข</string>
+    <string name="confirm">ยืนยัน</string>
+    <string name="pleasrenternumofproduct">จำนวน</string>
+    <string name="pleaseenterproductname">ชื่อสินค้า</string>
+
+</resources>
